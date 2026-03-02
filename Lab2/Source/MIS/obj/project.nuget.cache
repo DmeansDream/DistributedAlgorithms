@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rFyXezoNJIM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\DistributedAlgorithms\\Lab2\\Source\\MIS\\MIS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
