@@ -18,15 +18,15 @@ class Program
 
         ParseGraph(treeID);
         Node root = nodes.Values.FirstOrDefault();
+        Console.WriteLine("Scores for nodes:");
         RunMIS(root);
 
         FindWinningNodes(root, false);
+        Console.WriteLine("Nodes in final MIS:");
         foreach(var node in nodes.Values.Where(n => n.isSelected))
         {
             Console.WriteLine($"{node.text} : {node.id}");
         }
-
-
     }
 
     static void ParseGraph(int treeId)
