@@ -1,0 +1,263 @@
+Philosopher 0 is thinking
+Philosopher 1 is thinking
+Philosopher 2 is thinking
+Philosopher 3 is thinking
+Philosopher 4 is thinking
+Philosopher 2 eating
+Philosopher 4 eating
+Philosopher 4 is thinking
+Philosopher 2 is thinking
+Philosopher 1 eating
+Philosopher 3 eating
+Philosopher 3 is thinking
+Philosopher 1 is thinking
+Philosopher 2 eating
+Philosopher 0 eating
+Philosopher 0 is thinking
+Philosopher 2 is thinking
+Philosopher 1 eating
+Philosopher 4 eating
+Philosopher 4 is thinking
+Philosopher 1 is thinking
+Philosopher 0 eating
+Philosopher 3 eating
+Philosopher 3 is thinking
+Philosopher 0 is thinking
+Philosopher 4 eating
+Philosopher 2 eating
+Philosopher 3 eating
+Philosopher 4 is thinking
+Philosopher 1 eating
+Philosopher 2 is thinking
+Philosopher 1 is thinking
+Philosopher 3 is thinking
+Philosopher 0 eating
+Philosopher 2 eating
+Philosopher 2 is thinking
+Philosopher 0 is thinking
+Philosopher 1 eating
+Philosopher 4 eating
+Philosopher 4 is thinking
+Philosopher 1 is thinking
+Philosopher 0 eating
+Philosopher 3 eating
+Philosopher 0 is thinking
+Philosopher 4 eating
+Philosopher 3 is thinking
+Philosopher 2 eating
+Philosopher 1 eating
+Philosopher 4 is thinking
+Philosopher 3 eating
+Philosopher 2 is thinking
+Philosopher 3 is thinking
+Philosopher 1 is thinking
+Philosopher 2 eating
+Philosopher 0 eating
+Philosopher 0 is thinking
+Philosopher 2 is thinking
+Philosopher 1 eating
+Philosopher 4 eating
+Philosopher 4 is thinking
+Philosopher 1 is thinking
+Philosopher 0 eating
+Philosopher 3 eating
+Philosopher 3 is thinking
+Philosopher 0 is thinking
+Philosopher 4 eating
+Philosopher 2 eating
+Philosopher 2 is thinking
+Philosopher 4 is thinking
+Philosopher 3 eating
+Philosopher 1 eating
+Philosopher 1 is thinking
+Philosopher 3 is thinking
+Philosopher 2 eating
+Philosopher 0 eating
+Philosopher 0 is thinking
+Philosopher 2 is thinking
+Philosopher 1 eating
+Philosopher 4 eating
+Philosopher 1 is thinking
+Philosopher 3 eating
+Philosopher 4 is thinking
+Philosopher 0 eating
+Philosopher 0 is thinking
+Philosopher 4 eating
+Philosopher 2 eating
+Philosopher 3 is thinking
+Philosopher 2 is thinking
+Philosopher 4 is thinking
+Philosopher 3 eating
+Philosopher 1 eating
+Philosopher 1 is thinking
+Philosopher 3 is thinking
+Philosopher 0 eating
+Philosopher 2 eating
+Philosopher 2 is thinking
+Philosopher 0 is thinking
+Philosopher 1 eating
+Philosopher 4 eating
+Philosopher 1 is thinking
+Philosopher 4 is thinking
+Philosopher 0 eating
+Philosopher 3 eating
+Philosopher 3 is thinking
+Philosopher 0 is thinking
+Philosopher 4 eating
+Philosopher 2 eating
+Philosopher 2 is thinking
+Philosopher 4 is thinking
+Philosopher 3 eating
+Philosopher 1 eating
+Philosopher 1 is thinking
+Philosopher 3 is thinking
+Philosopher 2 eating
+Philosopher 0 eating
+Philosopher 0 is thinking
+Philosopher 2 is thinking
+Philosopher 1 eating
+Philosopher 4 eating
+Philosopher 4 is thinking
+Philosopher 1 is thinking
+Philosopher 0 eating
+Philosopher 3 eating
+Philosopher 3 is thinking
+Philosopher 0 is thinking
+Philosopher 2 eating
+Philosopher 4 eating
+Philosopher 4 is thinking
+Philosopher 3 eating
+Philosopher 2 is thinking
+Philosopher 1 eating
+Philosopher 1 is thinking
+Philosopher 0 eating
+Philosopher 3 is thinking
+Philosopher 2 eating
+Philosopher 2 is thinking
+Philosopher 1 eating
+Philosopher 0 is thinking
+Philosopher 4 eating
+Philosopher 4 is thinking
+Philosopher 3 eating
+Philosopher 0 eating
+Philosopher 1 is thinking
+Philosopher 3 is thinking
+Philosopher 0 is thinking
+Philosopher 4 eating
+Philosopher 2 eating
+Philosopher 2 is thinking
+Philosopher 4 is thinking
+Philosopher 1 eating
+Philosopher 3 eating
+Philosopher 3 is thinking
+Philosopher 0 eating
+Philosopher 2 eating
+Philosopher 1 is thinking
+Philosopher 2 is thinking
+Philosopher 0 is thinking
+Philosopher 1 eating
+Philosopher 4 eating
+Philosopher 4 is thinking
+Philosopher 0 eating
+Philosopher 1 is thinking
+Philosopher 3 eating
+Philosopher 3 is thinking
+Philosopher 0 is thinking
+Philosopher 4 eating
+Philosopher 2 eating
+Philosopher 4 is thinking
+Philosopher 2 is thinking
+Philosopher 3 eating
+Philosopher 1 eating
+Philosopher 1 is thinking
+Philosopher 3 is thinking
+Philosopher 2 eating
+Philosopher 0 eating
+Philosopher 0 is thinking
+Philosopher 2 is thinking
+Philosopher 1 eating
+Philosopher 4 eating
+Philosopher 4 is thinking
+Philosopher 1 is thinking
+Philosopher 0 eating
+Philosopher 3 eating
+Philosopher 3 is thinking
+Philosopher 0 is thinking
+Philosopher 4 eating
+Philosopher 2 eating
+Philosopher 2 is thinking
+Philosopher 1 eating
+Philosopher 4 is thinking
+Philosopher 3 eating
+Philosopher 3 is thinking
+Philosopher 1 is thinking
+Philosopher 2 eating
+Philosopher 0 eating
+Philosopher 0 is thinking
+Philosopher 1 eating
+Philosopher 2 is thinking
+Philosopher 4 eating
+Philosopher 1 is thinking
+Philosopher 4 is thinking
+Philosopher 0 eating
+Philosopher 3 eating
+Philosopher 3 is thinking
+Philosopher 0 is thinking
+Philosopher 4 eating
+Philosopher 2 eating
+Philosopher 2 is thinking
+Philosopher 1 eating
+Philosopher 4 is thinking
+Philosopher 3 eating
+Philosopher 3 is thinking
+Philosopher 2 eating
+Philosopher 1 is thinking
+Philosopher 0 eating
+Philosopher 0 is thinking
+Philosopher 2 is thinking
+Philosopher 1 eating
+Philosopher 4 eating
+Philosopher 1 is thinking
+Philosopher 4 is thinking
+Philosopher 3 eating
+Philosopher 0 eating
+Philosopher 3 is thinking
+Philosopher 0 is thinking
+Philosopher 4 eating
+Philosopher 2 eating
+Philosopher 2 is thinking
+Philosopher 4 is thinking
+Philosopher 3 eating
+Philosopher 1 eating
+Philosopher 1 is thinking
+Philosopher 3 is thinking
+Philosopher 2 eating
+Philosopher 0 eating
+Philosopher 0 is thinking
+Philosopher 2 is thinking
+Philosopher 4 eating
+Philosopher 1 eating
+Philosopher 1 is thinking
+Philosopher 4 is thinking
+Philosopher 3 eating
+Philosopher 0 eating
+Philosopher 3 is thinking
+Philosopher 0 is thinking
+Philosopher 2 eating
+Philosopher 4 eating
+Philosopher 4 is thinking
+Philosopher 2 is thinking
+Philosopher 3 eating
+Philosopher 1 eating
+Philosopher 1 is thinking
+Philosopher 3 is thinking
+Philosopher 0 eating
+Philosopher 2 eating
+Philosopher 0 though for 25 and ate for 25
+Philosopher 1 eating
+Philosopher 4 eating
+Philosopher 1 though for 26 and ate for 26
+Philosopher 3 eating
+Philosopher 2 though for 26 and ate for 26
+Philosopher 3 though for 26 and ate for 26
+Philosopher 4 though for 26 and ate for 26
